@@ -63,6 +63,11 @@ This project demonstrates how Data Vault 2.0 can be used to build a scalable and
 ![Enterprise Data Vault Architecture](architecture.png.png)
 
 
+# Data Vault Model
+
+![Data Vault Model](datavault_model.png.png)
+
+
 
 # Technologies Used
 
