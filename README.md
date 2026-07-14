@@ -80,7 +80,7 @@ The following diagram illustrates the execution flow of the complete Enterprise 
 
 The Enterprise Data Vault ETL pipeline executed successfully, and all validation tests passed. This confirms that the data quality checks, Data Vault tables, SCD Type 2 implementation, and curated layer were successfully validated.
 
-![Final Validation Result](validation_results.png.png)
+![Final Validation Result](validation_results.png)
 
 
 
