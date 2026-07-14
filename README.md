@@ -58,7 +58,9 @@ This project demonstrates how Data Vault 2.0 can be used to build a scalable and
 
 ## Project Architecture
 
-![Enterprise Data Vault Architecture](architecture.png)
+## Project Architecture
+
+![Enterprise Data Vault Architecture](images/architecture.png)
 
 
 
