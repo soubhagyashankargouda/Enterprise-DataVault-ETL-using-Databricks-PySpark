@@ -69,6 +69,14 @@ This project demonstrates how Data Vault 2.0 can be used to build a scalable and
 
 
 
+# ETL Workflow
+
+The following diagram illustrates the execution flow of the complete Enterprise Data Vault ETL pipeline developed in Databricks using 12 notebooks.
+
+![ETL Workflow](images/etl_workflow.png.png)
+
+
+
 # Technologies Used
 
 | Technology | Purpose |
