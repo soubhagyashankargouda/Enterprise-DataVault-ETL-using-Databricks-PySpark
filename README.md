@@ -76,6 +76,12 @@ The following diagram illustrates the execution flow of the complete Enterprise 
 ![ETL Workflow](etl_workflow.png.png)
 
 
+# Final Validation Result
+
+![Final Validation Result](validation_results.png.png)
+
+
+
 
 # Technologies Used
 
